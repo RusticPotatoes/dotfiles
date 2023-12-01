@@ -1,8 +1,8 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = rustic
+  email = rusticpotato42@gmail.com
 [core]
-  editor = vi
+  editor = nano
   excludesfile = ~/.gitignore
   autocrlf = input
 [color]
@@ -13,13 +13,13 @@
 [init]
   defaultBranch = master
 [web]
-  browser = google-chrome
+  browser = firefox
 [credential]
   helper = osxkeychain
 [push]
   default = simple
 [merge]
-  tool = kdiff3
+  tool = vscode
 [difftool]
   prompt = false
 [alias]
